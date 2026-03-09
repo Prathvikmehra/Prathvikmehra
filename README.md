@@ -80,3 +80,8 @@
 ---
 
 ⭐ *Always learning, building, and improving.*
+
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://github.com/Prathvikmehra/Prathvikmehra/blob/output/github-contribution-grid-snake.svg)

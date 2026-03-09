@@ -1,54 +1,63 @@
-# Hi, I'm Prathvik 👋
-
-🎓 Computer Science Student  
-💻 Aspiring Full Stack Developer  
-📍 India  
+<h1 align="center">Hi 👋, I'm Prathvik</h1>
+<h3 align="center">Computer Science Student | Full Stack Developer | Data Science Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
-- Currently learning **Full Stack Development**
-- Practicing **Data Structures & Algorithms**
-- Building projects with **JavaScript, Node.js, MongoDB**
+### 🚀 About Me
+
+- 🎓 First year Computer Science student  
+- 💻 Passionate about **Full Stack Development and Backend Systems**
+- 📊 Interested in **Data Analysis and Machine Learning**
+- 🧠 Practicing **Data Structures & Algorithms**
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠 Tech Stack
 
-**Languages**
-- C++
-- JavaScript
+#### Languages
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 
-**Frontend**
-- HTML
-- CSS
+#### Frontend
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
-**Backend**
-- Node.js
-- Express.js
+#### Backend
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
 
-**Database**
-- MongoDB
+#### Data Science
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
 
-**Tools**
-- Git
-- GitHub
-
----
-
-## 📌 Current Goals
-- Solve more **LeetCode problems**
-- Build **full stack projects**
-- Contribute to **open source**
+#### Tools
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: (your link)
+### 📊 GitHub Stats
 
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight)
 
-## 📊 GitHub Stats
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Prathvikmehra&show_icons=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvikmehra&layout=compact)
+### 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOURUSERNAME&theme=tokyo-night)
+
+---
+
+### 🎯 Current Focus
+
+- Building **Full Stack Applications**
+- Practicing **DSA**
+- Exploring **Machine Learning**
+
+---
+
+### 🤝 Connect With Me
+
+LinkedIn: https://linkedin.com/in/YOURPROFILE

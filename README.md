@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Prathvik 👋
 
-<!--
-**Prathvikmehra/Prathvikmehra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Aspiring Full Stack Developer  
+📍 India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- Currently learning **Full Stack Development**
+- Practicing **Data Structures & Algorithms**
+- Building projects with **JavaScript, Node.js, MongoDB**
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- C++
+- JavaScript
+
+**Frontend**
+- HTML
+- CSS
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+
+---
+
+## 📌 Current Goals
+- Solve more **LeetCode problems**
+- Build **full stack projects**
+- Contribute to **open source**
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: (your link)

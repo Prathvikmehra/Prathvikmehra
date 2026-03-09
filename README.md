@@ -45,3 +45,10 @@
 
 ## 📫 Connect With Me
 - LinkedIn: (your link)
+
+
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Prathvikmehra&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvikmehra&layout=compact)

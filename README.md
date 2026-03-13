@@ -84,7 +84,7 @@
 
 
 
-## 🐍 Contribution Snake
+
 
 <p align="center">
   <img src="https://github.com/Prathvikmehra/Prathvikmehra/blob/output/github-contribution-grid-snake-dark.svg" width="100%">

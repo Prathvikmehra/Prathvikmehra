@@ -26,16 +26,37 @@
 
 ---
 
-## 🚀 About Me
+#include <iostream>
+#include <vector>
+using namespace std;
 
-- 🎓 Computer Science Student  
-- 💻 Full Stack Developer  
-- 🤖 AI/ML Enthusiast  
-- 🧠 Problem Solver  
-- 🌍 Open Source Contributor  
-- 🎨 UI/UX Designer (Figma)
+class PrathvikMehra {
+public:
+    string name = "Prathvik Mehra";
+    string role = "Computer Science Student";
+    string focus = "Full Stack Developer";
+    string location = "India 🇮🇳";
 
----
+    vector<string> passions = {
+        "Full Stack Development",
+        "AI & ML",
+        "Problem Solving",
+        "Open Source",
+        "UI/UX Design (Figma)"
+    };
+
+    string currently = "Building projects, mastering backend, and leveling up DSA";
+
+    void sayHi() {
+        cout << "Thanks for stopping by! Let's build something amazing together 🚀" << endl;
+    }
+};
+
+int main() {
+    PrathvikMehra me;
+    me.sayHi();
+    return 0;
+}
 
 ## 🛠 Tech Stack
 

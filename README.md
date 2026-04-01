@@ -39,40 +39,44 @@
 
 ## 🛠 Tech Stack
 
-### 💻 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript"/>
-</p>
+### <p align="center">Languages</p>
 
-### 🎨 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react"/>
-</p>
-
-### ⚙️ Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js"/>
-</p>
-
-### 📊 Data Science
-<p align="center">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-</p>
-
-### 🎨 UI/UX
-<p align="center">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma"/>
-</p>
-
-### 🛠 Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ---
+
+### <p align="center">Frontend</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-1f2937?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+---
+
+### <p align="center">Backend & Databases</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
+
+---
+
+### <p align="center">Tools & Platforms</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F1502F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge"/>
+</p>
 
 ## 📈 GitHub Activity
 
@@ -114,11 +118,3 @@ I'm always open to learning, collaborating, and connecting with developers.
 </p>
 
 ---
-
-⭐ If you like my work, consider starring my repositories — it means a lot!
-
-> *"First, solve the problem. Then, write the code."*
-
-<p align="center">
-  <img src="https://github.com/Prathvikmehra/Prathvikmehra/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
-</p>

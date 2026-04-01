@@ -32,7 +32,7 @@ class PrathvikMehra:
         self.name        = "Prathvik Mehra"
         self.role        = "Computer Science Student"
         self.focus       = "Full Stack Developer"
-        self.location    = "India 🇮🇳"
+        self.location    = "Gujarat,India 🇮🇳"
 
         self.passions    = [
             "Full Stack Development",

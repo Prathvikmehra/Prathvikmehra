@@ -24,18 +24,29 @@
   </a>
 </p>
 
-class DevPatel:
+## 🧠 About Me
+
+```python
+class PrathvikMehra:
     def __init__(self):
         self.name        = "Prathvik Mehra"
-        self.role        = "Computer Engineering Student"
-        self.semester    = "2nd Semester"
-        self.location    = "Gujarat, India 🇮🇳"
-        self.passions    = ["Web Development", "AI & ML", "Open Source"]
-        self.currently   = "Building cool projects & exploring new tech"
+        self.role        = "Computer Science Student"
+        self.focus       = "Full Stack Developer"
+        self.location    = "India 🇮🇳"
+
+        self.passions    = [
+            "Full Stack Development",
+            "AI & ML",
+            "Problem Solving",
+            "Open Source",
+            "UI/UX Design (Figma)"
+        ]
+
+        self.currently   = "Building projects & exploring new tech"
 
     def say_hi(self):
         print("Thanks for stopping by! Let's build something awesome together 🚀")
-
+```
         
 ## 🛠 Tech Stack
 

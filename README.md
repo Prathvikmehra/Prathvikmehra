@@ -24,44 +24,19 @@
   </a>
 </p>
 
-#include <iostream>
-#include <vector>
-using namespace std;
+class DevPatel:
+    def __init__(self):
+        self.name        = "Prathvik Mehra"
+        self.role        = "Computer Engineering Student"
+        self.semester    = "2nd Semester"
+        self.location    = "Gujarat, India 🇮🇳"
+        self.passions    = ["Web Development", "AI & ML", "Open Source"]
+        self.currently   = "Building cool projects & exploring new tech"
 
-class PrathvikMehra {
-public:
-    // 👤 Basic Info
-    string name     = "Prathvik Mehra";
-    string role     = "Computer Science Student";
-    string focus    = "Full Stack Developer";
-    string location = "India 🇮🇳";
+    def say_hi(self):
+        print("Thanks for stopping by! Let's build something awesome together 🚀")
 
-    // ❤️ Interests
-    vector<string> passions = {
-        "Full Stack Development",
-        "AI & ML",
-        "Problem Solving",
-        "Open Source",
-        "UI/UX Design (Figma)"
-    };
-
-    // 🚀 Current Goal
-    string currently = "Building projects, mastering backend, and leveling up DSA";
-
-    // 💬 Intro Function
-    void sayHi() const {
-        cout << "Thanks for stopping by! Let's build something amazing together 🚀" << endl;
-    }
-};
-
-int main() {
-    PrathvikMehra me;
-
-    me.sayHi();
-
-    return 0;
-}
-
+        
 ## 🛠 Tech Stack
 
 ### <p align="center">Languages</p>

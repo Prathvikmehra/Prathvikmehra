@@ -24,19 +24,19 @@
   </a>
 </p>
 
----
-
 #include <iostream>
 #include <vector>
 using namespace std;
 
 class PrathvikMehra {
 public:
-    string name = "Prathvik Mehra";
-    string role = "Computer Science Student";
-    string focus = "Full Stack Developer";
+    // 👤 Basic Info
+    string name     = "Prathvik Mehra";
+    string role     = "Computer Science Student";
+    string focus    = "Full Stack Developer";
     string location = "India 🇮🇳";
 
+    // ❤️ Interests
     vector<string> passions = {
         "Full Stack Development",
         "AI & ML",
@@ -45,16 +45,20 @@ public:
         "UI/UX Design (Figma)"
     };
 
+    // 🚀 Current Goal
     string currently = "Building projects, mastering backend, and leveling up DSA";
 
-    void sayHi() {
+    // 💬 Intro Function
+    void sayHi() const {
         cout << "Thanks for stopping by! Let's build something amazing together 🚀" << endl;
     }
 };
 
 int main() {
     PrathvikMehra me;
+
     me.sayHi();
+
     return 0;
 }
 

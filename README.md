@@ -1,50 +1,57 @@
-<h1 align="center" style="
+<!-- ================= HERO SECTION ================= -->
+<div align="center" style="
+  background: linear-gradient(135deg, #0a0f1f, #111a3a, #0a0f1f);
+  padding: 60px 20px;
+  border-radius: 12px;
+">
+
+<h1 style="
   font-size:52px;
   font-weight:900;
-  background: linear-gradient(90deg, #00F5A0, #00D9F5, #7C5CFF);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color:#6CFFB8;
+  margin-bottom:10px;
 ">
   Prathvik Mehra
 </h1>
 
-<h3 align="center" style="color:#94A3B8;">
+<h3 style="color:#9CA3AF; font-weight:500;">
   Computer Science Student • Builder • Explorer
 </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Problem+Solver;Open+Source+Contributor;UI%2FUX+Designer+(Figma)" />
-</p>
+<br>
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=6CFFB8&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Problem+Solver;Open+Source+Contributor;UI%2FUX+Designer+(Figma)" />
 
-<p align="center">
+<br><br>
+
+<!-- CLEAN SOCIAL BUTTONS -->
+<p>
   <a href="https://www.linkedin.com/in/prathvik-mehra-9a3398379/">
-    <img src="https://img.shields.io/badge/LinkedIn-Prathvik%20Mehra-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://www.youtube.com/@Prathvikmehra-ct3rs">
-    <img src="https://img.shields.io/badge/YouTube-Prathvik%20Mehra-red?style=for-the-badge&logo=youtube">
-  </a>
-  <a href="https://github.com/Prathvikmehra">
-    <img src="https://img.shields.io/github/followers/Prathvikmehra?label=GitHub&style=for-the-badge&logo=github">
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode">
   </a>
   <a href="https://x.com/prathvik2345">
-    <img src="https://img.shields.io/badge/Twitter-Prathvik%20Mehra-1DA1F2?style=for-the-badge&logo=twitter">
+    <img src="https://img.shields.io/badge/Twitter-111111?style=for-the-badge&logo=twitter">
   </a>
-  <a href="mailto:prathvikmehra@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail">
+  <a href="https://www.youtube.com/@Prathvikmehra-ct3rs">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube">
   </a>
 </p>
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Computer Science student  
-- 💻 Passionate about **Full Stack Development & Backend Systems**
-- 📊 Exploring **AI/ML & Data Science**
-- 🧠 Practicing **Data Structures & Algorithms**
-- 🛠 Building impactful projects and sharing my journey  
+- 🎓 Computer Science Student  
+- 💻 Full Stack Developer  
+- 🤖 AI/ML Enthusiast  
+- 🧠 Problem Solver  
+- 🌍 Open Source Contributor  
+- 🎨 UI/UX Designer (Figma)
 
 ---
 
@@ -95,28 +102,32 @@
 
 ---
 
-## 🎯 Current Focus
-
-- 🚀 Building **Full Stack Applications**
-- ⚙️ Mastering **Backend Systems**
-- 🧠 Improving **DSA & Problem Solving**
-- 🤖 Exploring **AI/ML**
-
----
-
 ## 🤝 Connect With Me
 
-<p align="center">
-  💼 <a href="https://www.linkedin.com/in/prathvik-mehra-9a3398379/">LinkedIn</a> •
-  📺 <a href="https://www.youtube.com/@Prathvikmehra-ct3rs">YouTube</a> •
-  💻 <a href="https://github.com/Prathvikmehra">GitHub</a> •
-  🐦 <a href="https://x.com/prathvik2345">Twitter</a> •
-  📧 <a href="mailto:prathvikmehra@gmail.com">Email</a>
+<p>
+I'm always open to learning, collaborating, and connecting with fellow developers.
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/prathvik-mehra-9a3398379/">
+    <img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="https://www.youtube.com/@Prathvikmehra-ct3rs">
+    <img src="https://img.shields.io/badge/WATCH%20ON%20YOUTUBE-FF0000?style=for-the-badge&logo=youtube">
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20LEETCODE-F89F1B?style=for-the-badge&logo=leetcode">
+  </a>
+  <a href="https://github.com/Prathvikmehra">
+    <img src="https://img.shields.io/badge/FOLLOW%20ON%20GITHUB-181717?style=for-the-badge&logo=github">
+  </a>
 </p>
 
 ---
 
-⭐ **Always learning. Always building. Always leveling up.**
+⭐ If you like my work, consider starring my repositories — it means a lot!
+
+> *"First, solve the problem. Then, write the code."*
 
 <p align="center">
   <img src="https://github.com/Prathvikmehra/Prathvikmehra/blob/output/github-contribution-grid-snake-dark.svg" width="100%">

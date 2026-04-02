@@ -100,24 +100,7 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
 </p>
 
-#### 🧰 Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00F5A0"/>
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5A0"/>
-  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F5A0"/>
-</p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F5A0"/>
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5A0"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F5A0"/>
-  <img src="https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm&logoColor=00F5A0"/>
-</p>
-
----
 
 <!-- ================= DIVIDER ================= -->
 <div align="center">

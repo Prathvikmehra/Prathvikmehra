@@ -69,26 +69,42 @@
   <img src="https://img.shields.io/badge/HTML5-00F5A0?style=for-the-badge&logo=html5&logoColor=black"/>
   <img src="https://img.shields.io/badge/CSS3-00F5A0?style=for-the-badge&logo=css3&logoColor=black"/>
   <img src="https://img.shields.io/badge/Tailwind-00F5A0?style=for-the-badge&logo=tailwindcss&logoColor=black"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Redux-00F5A0?style=for-the-badge&logo=redux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Figma-00F5A0?style=for-the-badge&logo=figma&logoColor=black"/>
 </p>
+
+---
 
 #### ⚙️ Backend & Database
 <p align="center">
   <img src="https://img.shields.io/badge/Node.js-00F5A0?style=for-the-badge&logo=node.js&logoColor=black"/>
   <img src="https://img.shields.io/badge/Express.js-00F5A0?style=for-the-badge&logo=express&logoColor=black"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/MongoDB-00F5A0?style=for-the-badge&logo=mongodb&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-00F5A0?style=for-the-badge&logo=mysql&logoColor=black"/>
 </p>
+
+---
 
 #### 🧰 Languages & Tools
 <p align="center">
   <img src="https://img.shields.io/badge/C++-00F5A0?style=for-the-badge&logo=cplusplus&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-00F5A0?style=for-the-badge&logo=python&logoColor=black"/>
   <img src="https://img.shields.io/badge/JavaScript-00F5A0?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Git-00F5A0?style=for-the-badge&logo=git&logoColor=black"/>
   <img src="https://img.shields.io/badge/GitHub-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/VS Code-00F5A0?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-00F5A0?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
   <img src="https://img.shields.io/badge/NPM-00F5A0?style=for-the-badge&logo=npm&logoColor=black"/>
 </p>
 

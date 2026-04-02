@@ -85,10 +85,11 @@
 <br>
 
 #### Languages & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,git,github,vscode,npm" alt="Languages and tools icons" />
-</div>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Prathvikmehra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvikmehra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=FFFFFF" height="180"/>
+</p>
 <!-- ================= DIVIDER ================= -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />

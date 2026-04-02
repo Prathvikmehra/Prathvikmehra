@@ -54,7 +54,7 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
-  <a href="[YOUR_PORTFOLIO_URL]" target="_blank">
+  <a href="https://portfolio-prathvik.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;

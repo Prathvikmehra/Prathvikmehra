@@ -1,124 +1,161 @@
 <!-- ================= HEADER ================= -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prathvik+Mehra;Full+Stack+Developer;Building+Scalable+Apps" />
-</p>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Prathvik+Mehra;Full+Stack+Developer;I+Love+Building+Scalable+Apps"
+      alt="Typing SVG"
+    />
+  </a>
+</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Prathvikmehra&label=Profile%20Views&color=00F5A0&style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00F5A0?style=for-the-badge"/>
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-00F5A0?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Work" />
+  &nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Prathvikmehra&label=Profile%20Views&color=00F5A0&style=for-the-badge" alt="Profile Views" />
+</div>
 
-<br/>
+<br>
 
-<table align="center">
-<tr>
-<td width="50%">
+<!-- ================= DIVIDER ================= -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+</div>
 
-### 👨‍💻 Welcome
-Building scalable apps, exploring AI, and leveling up daily 🚀
+<img
+  align="right"
+  src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"
+  width="300"
+  alt="coding gif"
+/>
 
-</td>
-<td width="50%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-</td>
-</tr>
-</table>
+### 👤 About Me
 
----
+- 🎓 Computer Science Student  
+- 💻 Full Stack Developer focused on the MERN stack  
+- 📚 Learning System Design, DSA, and performance optimization  
+- 🤖 Exploring AI and machine learning  
+- ⚡ Fun Fact: coffee makes debugging feel easier  
 
-<!-- ================= ABOUT ================= -->
-### 🧠 About Me
+<br clear="right"/>
 
-- 🎓 Computer Science Student
-- 💻 Full Stack Developer
-- 📚 Learning System Design & DSA
-- 🤖 Exploring AI & ML
-- ⚡ Fun Fact: I debug faster after coffee ☕
+<!-- ================= DIVIDER ================= -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+</div>
 
----
-
-<!-- ================= SOCIAL ================= -->
 ### 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/prathvik-mehra-9a3398379/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<div align="center">
+  <a href="https://www.linkedin.com/in/prathvik-mehra-9a3398379/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-00C853?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://x.com/prathvik2345">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=twitter&logoColor=white"/>
+  <a href="https://x.com/prathvik2345" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   &nbsp;
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-ff00cc?style=for-the-badge&logoColor=white"/>
+  <a href="[YOUR_PORTFOLIO_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   &nbsp;
-  <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <a href="[YOUR_LEETCODE_URL]" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-</p>
+</div>
 
----
+<!-- ================= DIVIDER ================= -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+</div>
 
-<!-- ================= TECH STACK ================= -->
 ### 🛠️ Tech Stack
 
-#### 🎨 Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,redux,figma" />
-</p>
+#### Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,redux,figma" alt="Frontend icons" />
+</div>
 
-#### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
+<br>
 
-#### 🧰 Tools & Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,npm,cpp,python,js" />
-</p>
+#### Backend & Database
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database icons" />
+</div>
 
----
+<br>
 
-<!-- ================= STATS ================= -->
-### 📊 GitHub Stats
+#### Languages & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,git,github,vscode,npm" alt="Languages and tools icons" />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prathvikmehra&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<!-- ================= DIVIDER ================= -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+</div>
+
+### 📊 GitHub Stats & Most Used Languages
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Prathvikmehra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF"
+    height="180"
+    alt="GitHub Stats"
+  />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvikmehra&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvikmehra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=FFFFFF&langs_count=8"
+    height="180"
+    alt="Top Languages"
+  />
+</div>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prathvikmehra&theme=tokyonight&hide_border=true" />
-</p>
+<!-- ================= DIVIDER ================= -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+</div>
 
----
+### 🔥 GitHub Streak Stats
 
-<!-- ================= GRAPH ================= -->
-### 📈 Activity Graph
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=Prathvikmehra&theme=chartreuse-dark&hide_border=true&background=0D1117&ring=00F5A0&fire=00F5A0&currStreakLabel=00F5A0"
+    alt="GitHub Streak"
+  />
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathvikmehra&theme=tokyo-night&hide_border=true" />
-</p>
+<!-- ================= DIVIDER ================= -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+</div>
 
----
+### 📈 Contribution Activity
 
-<!-- ================= SNAKE ================= -->
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Prathvikmehra&bg_color=0D1117&color=00F5A0&line=00F5A0&point=FFFFFF&area=true&hide_border=true"
+    alt="Contribution Graph"
+  />
+</div>
+
+<!-- ================= DIVIDER ================= -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider" />
+</div>
+
 ### 🐍 Contribution Snake
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake.svg"/>
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</p>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <!-- ================= FOOTER ================= -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C853&height=100&section=footer" width="100%" alt="footer" />
+</div>
+
 <p align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
+  <em>⭐ If you like my work, consider giving a star to my repositories!</em>
 </p>

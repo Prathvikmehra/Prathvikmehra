@@ -25,9 +25,8 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00F5A0&height=3" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 </p>
-
 <!-- ================= ABOUT ================= -->
 ### 🧠 About Me
 
@@ -39,7 +38,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:3333ff&height=3" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 </p>
 
 <!-- ================= SOCIAL ================= -->
@@ -62,7 +61,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00C9FF&height=3" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 </p>
 
 <!-- ================= TECH STACK ================= -->
@@ -85,9 +84,8 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:ff00cc&height=3" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 </p>
-
 <!-- ================= STATS ================= -->
 ### 📊 GitHub Stats
 
@@ -102,7 +100,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3333ff,100:00F5A0&height=3" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 </p>
 
 <!-- ================= GRAPH ================= -->
@@ -114,7 +112,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=3" width="100%"/>
+  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
 </p>
 
 <!-- ================= SNAKE ================= -->

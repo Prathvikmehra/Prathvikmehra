@@ -25,7 +25,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 </tr>
 </table>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+---
 
 <!-- ================= ABOUT ================= -->
 ### 🧠 About Me
@@ -36,7 +36,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 - 🤖 Exploring AI & ML
 - ⚡ Fun Fact: I debug faster after coffee ☕
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+---
 
 <!-- ================= SOCIAL ================= -->
 ### 🌐 Connect With Me
@@ -59,7 +59,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
   </a>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+---
 
 <!-- ================= TECH STACK ================= -->
 ### 🛠️ Tech Stack
@@ -79,7 +79,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,npm,cpp,python,js" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+---
 
 <!-- ================= STATS ================= -->
 ### 📊 GitHub Stats
@@ -94,7 +94,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
   <img src="https://streak-stats.demolab.com?user=Prathvikmehra&theme=tokyonight&hide_border=true" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+---
 
 <!-- ================= GRAPH ================= -->
 ### 📈 Activity Graph
@@ -103,7 +103,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathvikmehra&theme=tokyo-night&hide_border=true" />
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+---
 
 <!-- ================= SNAKE ================= -->
 ### 🐍 Contribution Snake
@@ -116,9 +116,9 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
   </picture>
 </p>
 
-<!-- ================= FOOTER ================= -->
-<br/>
+---
 
+<!-- ================= FOOTER ================= -->
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
 </p>

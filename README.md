@@ -110,15 +110,11 @@ Building scalable web apps, solving real-world problems, and constantly leveling
   </a>
 </p>
 
----
-
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/[YOUR_USERNAME]/[YOUR_USERNAME]/blob/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
 
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>

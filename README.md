@@ -5,8 +5,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Prathvikmehra&label=Profile%20Views&color=00F5A0&style=for-the-badge"/>
+  &nbsp;
   <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-00F5A0?style=for-the-badge"/>
 </p>
+
+<br/>
 
 <table align="center">
 <tr>
@@ -16,53 +19,47 @@
 Building scalable apps, exploring AI, and leveling up daily 🚀
 
 </td>
-
 <td width="50%">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </td>
 </tr>
 </table>
 
-<!-- ================= DIVIDER ================= -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
 <!-- ================= ABOUT ================= -->
 ### 🧠 About Me
 
-- 🎓 Computer Science Student  
-- 💻 Full Stack Developer  
-- 📚 Learning System Design & DSA  
-- 🤖 Exploring AI & ML  
-- ⚡ Fun Fact: I debug faster after coffee ☕  
+- 🎓 Computer Science Student
+- 💻 Full Stack Developer
+- 📚 Learning System Design & DSA
+- 🤖 Exploring AI & ML
+- ⚡ Fun Fact: I debug faster after coffee ☕
 
-<!-- ================= DIVIDER ================= -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
 
 <!-- ================= SOCIAL ================= -->
 ### 🌐 Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prathvik-mehra-9a3398379/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://x.com/prathvik2345">
-    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=twitter"/>
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-ff00cc?style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Portfolio-ff00cc?style=for-the-badge&logoColor=white"/>
   </a>
+  &nbsp;
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
 </p>
 
-<!-- ================= DIVIDER ================= -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
 
 <!-- ================= TECH STACK ================= -->
 ### 🛠️ Tech Stack
@@ -82,15 +79,14 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,npm,cpp,python,js" />
 </p>
 
-<!-- ================= DIVIDER ================= -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
+
 <!-- ================= STATS ================= -->
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Prathvikmehra&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  &nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvikmehra&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
@@ -98,10 +94,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
   <img src="https://streak-stats.demolab.com?user=Prathvikmehra&theme=tokyonight&hide_border=true" />
 </p>
 
-<!-- ================= DIVIDER ================= -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
 
 <!-- ================= GRAPH ================= -->
 ### 📈 Activity Graph
@@ -110,19 +103,22 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prathvikmehra&theme=tokyo-night&hide_border=true" />
 </p>
 
-<!-- ================= DIVIDER ================= -->
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" width="100%" />
-</p>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="100%" height="2"/>
 
 <!-- ================= SNAKE ================= -->
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake-dark.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake.svg"/>
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Prathvikmehra/Prathvikmehra/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </p>
 
 <!-- ================= FOOTER ================= -->
+<br/>
+
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
 </p>

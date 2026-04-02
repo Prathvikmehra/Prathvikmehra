@@ -60,33 +60,51 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
-
 ### 🛠️ Tech Stack
 
 #### 🎨 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/React-00F5A0?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-00F5A0?style=for-the-badge&logo=html5&logoColor=black"/>
-  <img src="https://img.shields.io/badge/CSS3-00F5A0?style=for-the-badge&logo=css3&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind-00F5A0?style=for-the-badge&logo=tailwindcss&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/Tailwind-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=00F5A0"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Redux-00F5A0?style=for-the-badge&logo=redux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Figma-00F5A0?style=for-the-badge&logo=figma&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-0D1117?style=for-the-badge&logo=redux&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/Figma-0D1117?style=for-the-badge&logo=figma&logoColor=00F5A0"/>
 </p>
 
 ---
 
 #### ⚙️ Backend & Database
 <p align="center">
-  <img src="https://img.shields.io/badge/Node.js-00F5A0?style=for-the-badge&logo=node.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express.js-00F5A0?style=for-the-badge&logo=express&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/Express.js-0D1117?style=for-the-badge&logo=express&logoColor=00F5A0"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-00F5A0?style=for-the-badge&logo=mongodb&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MySQL-00F5A0?style=for-the-badge&logo=mysql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00F5A0"/>
+</p>
+
+---
+
+#### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=00F5A0"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F5A0"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=00F5A0"/>
+  <img src="https://img.shields.io/badge/NPM-0D1117?style=for-the-badge&logo=npm&logoColor=00F5A0"/>
 </p>
 
 ---

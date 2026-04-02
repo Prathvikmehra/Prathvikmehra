@@ -60,26 +60,37 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />
 </div>
 
+
 ### 🛠️ Tech Stack
 
-#### Frontend
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,redux,figma" />
-</div>
+#### 🎨 Frontend
+<p align="center">
+  <img src="https://img.shields.io/badge/React-00F5A0?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/HTML5-00F5A0?style=for-the-badge&logo=html5&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-00F5A0?style=for-the-badge&logo=css3&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-00F5A0?style=for-the-badge&logo=tailwindcss&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-00F5A0?style=for-the-badge&logo=redux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Figma-00F5A0?style=for-the-badge&logo=figma&logoColor=black"/>
+</p>
 
-<br>
+#### ⚙️ Backend & Database
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-00F5A0?style=for-the-badge&logo=node.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express.js-00F5A0?style=for-the-badge&logo=express&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-00F5A0?style=for-the-badge&logo=mongodb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MySQL-00F5A0?style=for-the-badge&logo=mysql&logoColor=black"/>
+</p>
 
-#### Backend & Database
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
-</div>
-
-<br>
-
-#### Languages & Tools
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,git,github,vscode,npm" />
-</div>
+#### 🧰 Languages & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00F5A0?style=for-the-badge&logo=cplusplus&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-00F5A0?style=for-the-badge&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JavaScript-00F5A0?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-00F5A0?style=for-the-badge&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VS Code-00F5A0?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NPM-00F5A0?style=for-the-badge&logo=npm&logoColor=black"/>
+</p>
 
 <!-- ================= DIVIDER ================= -->
 <div align="center">
@@ -89,9 +100,9 @@
 ### 📊 GitHub Stats & Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prathvikmehra&show_icons=true&theme=chartreuse-dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prathvikmehra&show_icons=true&theme=default&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF" height="180"/>
   
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prathvikmehra&layout=compact&theme=chartreuse-dark&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prathvikmehra&layout=compact&theme=default&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=FFFFFF" height="180"/>
 </p>
 
 <!-- ================= DIVIDER ================= -->

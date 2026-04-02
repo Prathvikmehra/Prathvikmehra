@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F5A0&height=200&section=header&animation=fadeIn" width="100%"/>
+</p>
 <!-- ================= HEADER ================= -->
 <h1 align="center">
   <a href="https://git.io/typing-svg">

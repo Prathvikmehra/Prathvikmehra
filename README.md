@@ -1,15 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F5A0&height=200&section=header&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:00F5A0&height=220&section=header&text=Prathvik%20Mehra&fontSize=45&fontColor=00F5A0&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Scalable%20Apps&descAlignY=60&descSize=18" width="100%"/>
 </p>
-<!-- ================= HEADER ================= -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00F5A0&center=true&vCenter=true&width=760&lines=Hi%2C+I'm+Prathvik+Mehra;Full+Stack+Developer;I+Love+Building+Scalable+Apps"
-      alt="Typing SVG"
-    />
-  </a>
-</h1>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Open%20to%20Work-00F5A0?style=for-the-badge&logo=handshake&logoColor=white" />

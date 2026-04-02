@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prathvik+Mehra;Full+Stack+Developer;I+Love+Building+Scalable+Apps" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&pause=1000&color=00F5A0&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Prathvik+Mehra;Full+Stack+Developer;Building+Scalable+Apps" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00F5A0&height=3" width="100%"/>
 </p>
 
 <!-- ================= ABOUT ================= -->
@@ -33,36 +33,36 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 
 - 🎓 Computer Science Student  
 - 💻 Full Stack Developer  
-- 📚 Currently learning System Design & DSA  
-- 🤖 Exploring AI & Machine Learning  
+- 📚 Learning System Design & DSA  
+- 🤖 Exploring AI & ML  
 - ⚡ Fun Fact: I debug faster after coffee ☕  
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:3333ff&height=3" width="100%"/>
 </p>
 
 <!-- ================= SOCIAL ================= -->
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/[YOUR_LINKEDIN]/">
+  <a href="https://www.linkedin.com/in/prathvik-mehra-9a3398379/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="https://x.com/[YOUR_HANDLE]">
+  <a href="https://x.com/prathvik2345">
     <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=twitter"/>
   </a>
-  <a href="[YOUR_PORTFOLIO]">
-    <img src="https://img.shields.io/badge/Portfolio-00F5A0?style=for-the-badge"/>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-ff00cc?style=for-the-badge"/>
   </a>
-  <a href="https://leetcode.com/[YOUR_USERNAME]/">
+  <a href="https://leetcode.com/">
     <img src="https://img.shields.io/badge/LeetCode-F89F1B?style=for-the-badge&logo=leetcode"/>
   </a>
 </p>
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:00C9FF&height=3" width="100%"/>
 </p>
 
 <!-- ================= TECH STACK ================= -->
@@ -78,14 +78,14 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
   <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </p>
 
-#### 🗄️ Database & Tools
+#### 🧰 Tools & Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode,npm,cpp,python,js" />
 </p>
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5A0,100:ff00cc&height=3" width="100%"/>
 </p>
 
 <!-- ================= STATS ================= -->
@@ -102,7 +102,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:3333ff,100:00F5A0&height=3" width="100%"/>
 </p>
 
 <!-- ================= GRAPH ================= -->
@@ -114,7 +114,7 @@ Building scalable apps, exploring AI, and leveling up daily 🚀
 
 <!-- ================= DIVIDER ================= -->
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ff00cc,100:3333ff&height=3" width="100%"/>
 </p>
 
 <!-- ================= SNAKE ================= -->

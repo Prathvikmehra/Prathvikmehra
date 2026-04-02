@@ -109,23 +109,6 @@
 
 ---
 
-#### 🧰 Languages & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/C++-00F5A0?style=for-the-badge&logo=cplusplus&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-00F5A0?style=for-the-badge&logo=python&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JavaScript-00F5A0?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-00F5A0?style=for-the-badge&logo=git&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-00F5A0?style=for-the-badge&logo=github&logoColor=black"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-00F5A0?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NPM-00F5A0?style=for-the-badge&logo=npm&logoColor=black"/>
-</p>
-
 <!-- ================= DIVIDER ================= -->
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" />

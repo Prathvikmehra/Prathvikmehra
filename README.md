@@ -96,19 +96,10 @@
 
 ### 📊 GitHub Stats & Most Used Languages
 
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=Prathvikmehra&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5A0&icon_color=00F5A0&text_color=FFFFFF"
-    height="180"
-    alt="GitHub Stats"
-  />
-  &nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prathvikmehra&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5A0&text_color=FFFFFF&langs_count=8"
-    height="180"
-    alt="Top Languages"
-  />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Prathvikmehra&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Prathvikmehra&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
 
 <!-- ================= DIVIDER ================= -->
 <div align="center">

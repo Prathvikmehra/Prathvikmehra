@@ -19,11 +19,15 @@
 
 ### 👤 About Me
 
-- 🎓 Computer Science Student  
-- 💻 Full Stack Developer focused on the MERN stack  
-- 📚 Learning System Design, DSA, and performance optimization  
-- 🤖 Exploring AI and machine learning  
-- ⚡ Fun Fact: coffee makes debugging feel easier  
+- 🎓 Computer Science Student (trying to graduate without losing sanity)
+- 💻 Full Stack Developer (MERN) — turning coffee into code ☕➡️💻
+- 🧠 Learning System Design, DSA, and how not to overcomplicate things
+- 🤖 Exploring AI & Machine Learning (sometimes it works, sometimes I pretend it does)
+- 🛠️ Building real-world projects with clean UI and smoother UX
+- ⚙️ Writing code that works… then rewriting it to make it better
+- 🔍 Debugging like a detective — except the bug is usually me
+- 🚀 Always learning, building, and breaking things (mostly fixing them too)
+- ⚡ Fun Fact: 90% of bugs disappear after a snack or a walk
 
 <br clear="right"/>
 

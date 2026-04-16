@@ -46,8 +46,8 @@
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://portfolio-prathvik.netlify.app/">
-    <img src="[https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white](https://portfolio-z9yl.vercel.app/)"/>
+  <a href="https://portfolio-z9yl.vercel.app/">
+    <img src="[https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white]"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/">

@@ -1,0 +1,150 @@
+<svg width="1200" height="650" viewBox="0 0 1200 650"
+     xmlns="http://www.w3.org/2000/svg">
+
+  <rect width="1200" height="650" fill="#0D1117"/>
+
+  <!-- Title -->
+  <text x="55" y="55"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="24"
+        font-weight="bold">
+    How my time actually gets used
+  </text>
+
+  <text x="360" y="105"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="30"
+        text-anchor="middle">
+    "Where my hours go"
+  </text>
+
+
+  <!-- ================= PIE CHART ================= -->
+
+  <g transform="translate(360,350)">
+
+    <!-- 40% Full Stack = 144 degrees -->
+    <path d="
+      M 0 0
+      L 0 -225
+      A 225 225 0 0 1 132.25 182.03
+      Z"
+      fill="#00F5A0"
+      stroke="#0D1117"
+      stroke-width="3"/>
+
+    <!-- 25% C++ / DSA = 90 degrees -->
+    <path d="
+      M 0 0
+      L 132.25 182.03
+      A 225 225 0 0 1 -182.03 132.25
+      Z"
+      fill="#7B2CBF"
+      stroke="#0D1117"
+      stroke-width="3"/>
+
+    <!-- 15% Backend = 54 degrees -->
+    <path d="
+      M 0 0
+      L -182.03 132.25
+      A 225 225 0 0 1 -213.99 -69.53
+      Z"
+      fill="#3A86A8"
+      stroke="#0D1117"
+      stroke-width="3"/>
+
+    <!-- 10% DevOps = 36 degrees -->
+    <path d="
+      M 0 0
+      L -213.99 -69.53
+      A 225 225 0 0 1 -132.25 -182.03
+      Z"
+      fill="#F4A261"
+      stroke="#0D1117"
+      stroke-width="3"/>
+
+    <!-- 10% AI / Data = 36 degrees -->
+    <path d="
+      M 0 0
+      L -132.25 -182.03
+      A 225 225 0 0 1 0 -225
+      Z"
+      fill="#E63946"
+      stroke="#0D1117"
+      stroke-width="3"/>
+
+  </g>
+
+
+  <!-- ================= PERCENTAGES ================= -->
+
+  <g fill="#FFFFFF"
+     font-family="Arial, sans-serif"
+     font-size="20"
+     font-weight="bold"
+     text-anchor="middle"
+     dominant-baseline="middle">
+
+    <!-- 40% -->
+    <text x="488" y="308">40%</text>
+
+    <!-- 25% -->
+    <text x="339" y="483">25%</text>
+
+    <!-- 15% -->
+    <text x="227" y="371">15%</text>
+
+    <!-- 10% DevOps -->
+    <text x="251" y="271">10%</text>
+
+    <!-- 10% AI / Data -->
+    <text x="318" y="222">10%</text>
+
+  </g>
+
+
+  <!-- ================= LEGEND ================= -->
+
+  <rect x="650" y="245" width="22" height="22" fill="#00F5A0"/>
+  <text x="685" y="263"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="19">
+    Full-stack development (MERN, React Native)
+  </text>
+
+  <rect x="650" y="285" width="22" height="22" fill="#7B2CBF"/>
+  <text x="685" y="303"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="19">
+    C++ / DSA / LeetCode
+  </text>
+
+  <rect x="650" y="325" width="22" height="22" fill="#3A86A8"/>
+  <text x="685" y="343"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="19">
+    Backend &amp; APIs (Node, Express, MongoDB, MySQL)
+  </text>
+
+  <rect x="650" y="365" width="22" height="22" fill="#F4A261"/>
+  <text x="685" y="383"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="19">
+    DevOps &amp; tooling (Git, Docker, CI/CD)
+  </text>
+
+  <rect x="650" y="405" width="22" height="22" fill="#E63946"/>
+  <text x="685" y="423"
+        fill="#FFFFFF"
+        font-family="Arial, sans-serif"
+        font-size="19">
+    AI / ML &amp; data experiments (Python, Pandas)
+  </text>
+
+</svg>

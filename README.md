@@ -99,6 +99,14 @@
 </p>
 
 
+<br><br>
+
+<div align="center">
+  <img src="./assets/time-usage.svg" width="850"/>
+</div>
+
+<br><br>
+
 
 <!-- ================= DIVIDER ================= -->
 <div align="center">
